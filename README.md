@@ -2,7 +2,7 @@
 
 Explained my approach to solve a Hackathon conducted by AnalyticsVidhya that helped me stand in the 8th position in Private Leaderboard.
 
-**Link to Competition: https://datahack.analyticsvidhya.com/contest/amexpert-decipher-women-machine-learning-hackathon/  **
+**Link to Competition: https://datahack.analyticsvidhya.com/contest/amexpert-decipher-women-machine-learning-hackathon/**
 
 **Leaderboard Rank - 8**: My Username in the competition - anonymousC683HQ
 
